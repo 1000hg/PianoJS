@@ -15,4 +15,7 @@ If not performed with a "brackets", the sound may not be audible.
 can play the piano and record it.  
 피아노를 칠 수 있고, 녹음이 가능하다.
 
-[![Video Label](./testing/testing_img.PNG)](https://youtu.be/EjCXXkcBuJo) Video Label
+
+# Run Video
+
+[![Video Label](./testing/testing_img.PNG)](https://youtu.be/EjCXXkcBuJo)
